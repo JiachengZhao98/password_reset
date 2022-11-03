@@ -1,1 +1,1 @@
-# One solution of resettig password in a web app/website
+## One solution of resettig password in a web app/website
